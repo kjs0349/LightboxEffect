@@ -14,4 +14,8 @@ function lightbox(e) {
         lightboxImage.setAttribute('src', newImage);
     }
 
+    if(elemId == 'lightbox-overlay' || elemId == 'lightbox-image') {
+        lightboxOverlay.classList.remove('visible');
+        lightboxImage.setAttribute('src', '');
+    }
 }
