@@ -1,6 +1,8 @@
 # LightboxEffect
 자바스크립트를 이용해 라이트박스 효과를 만들어 보았습니다.
 
+![LightboxEffect2](https://user-images.githubusercontent.com/61913417/105563609-17a80e80-5d62-11eb-8eeb-6ffa3e7d814e.gif)
+
 ### 구상 과정과 구현
 1. 이미지 클릭시 그 이미지가 전체 화면 정가운데 뜨며 뒤에 어두운 배경이 생기게 하고 싶다!
  - 클릭 이벤트를 문서 전체에 주고 클릭 된 타겟을 알아낸다.
